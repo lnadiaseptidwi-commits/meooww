@@ -1,0 +1,16 @@
+.hero{
+    background: url("asset/img/mENG.png") no-repeat center center;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    color: #1d190f; (103, 53, 3);
+    font-weight: bold;
+}
+
+nav {
+    background-color: #A67C5B(221, 160, 199);
+}
+
+.project{
+    background-color: #DECFAC;
+}
